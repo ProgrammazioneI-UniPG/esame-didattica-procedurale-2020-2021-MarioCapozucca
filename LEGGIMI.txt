@@ -1,0 +1,7 @@
+Buonasera Professore, 
+in allegato la cartella in .zip contenente:
+- i file sorgenti in C
+- esami in pdf
+- file.tex degli esami.
+
+Gli esami sono stati svolti da Cretoni Giada e Mario Capozucca.
